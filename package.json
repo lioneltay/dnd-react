@@ -1,8 +1,8 @@
 {
-  "name": "LightReactStarterCode",
-  "version": "1.0.0",
+  "name": "dnd-react",
+  "version": "0.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "webpack-dev-server"
   },
