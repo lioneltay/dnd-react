@@ -2,7 +2,7 @@
   "name": "dnd-react",
   "version": "0.0.1",
   "description": "",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server"
   },
